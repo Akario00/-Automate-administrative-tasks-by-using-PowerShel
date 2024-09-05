@@ -1,11 +1,4 @@
-# Enkelt backup-script
-
-
-#### Setup
-# New-Item -Name 'app' -ItemType "directory"
-# Set-Location app
-# New-Item index.html, app.js
-# cd .. 
+# Enkelt backup-script for LOKAL backup
 
 #### Code
 
